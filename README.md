@@ -9,7 +9,7 @@ I'm Naeem Sutton, a 22-year-old Computer Science major with a deep passion for s
 
 Skills: C++/VUE JS / REACT / JS / Python
 
-- 🔭 I’m currently working on a RPG Game https://github.com/NaeemSutton/GameRPG 
+- 🔭 I’m currently working on a RPG Game <a href="https://github.com/NaeemSutton/GameRPG">My Project</a>
 - 🌱 I’m currently learning C++, Python, Django 
 - 👯 I’m looking to collaborate on meaningful projects 
 - 🤔 I’m looking for help with game development 
