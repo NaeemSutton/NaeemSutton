@@ -7,7 +7,7 @@ When I'm not immersed in code, you'll find me:
 
 🏀 Cheering for my beloved Celtics during the NBA season
 🎮 Exploring virtual worlds as a video game enthusiast
-🐱 Spending quality time with my feline companions
+🍳 Enjoying quality time in the kitchen
 🙋‍♂️ Enjoying the company of friends
 
 I'm always eager to connect with like-minded individuals, so feel free to reach out. Let's chat about tech, sports, gaming, cats, or anything under the sun!
