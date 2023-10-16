@@ -1,3 +1,2 @@
 # readme.md
- <div align="center"> <img src="![github-header-image](https://github.com/NaeemSutton/readme.md/assets/107595797/698e9f68-0f0e-4e83-8dd2-96129e0ea19c)"
-> </div>
+![github-header-image](https://github.com/NaeemSutton/readme.md/assets/107595797/f6f74812-4533-46e4-a904-6e3d4ad49dae)
