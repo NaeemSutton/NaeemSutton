@@ -13,5 +13,5 @@ I'm a 22-year-old Computer Science major with a deep passion for software develo
 
 ## Connect with me
 
-[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40'>](https://github.com/NaeemSutton) [<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naeemsutton/) [<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nae_sut/)
+[[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40' style='filter: invert(1);'>](https://github.com/NaeemSutton) [<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(1);'>](https://www.linkedin.com/in/naeemsutton/) [<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='40' style='filter: invert(1);'>](https://www.instagram.com/nae_sut/)
 
