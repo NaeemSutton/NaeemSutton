@@ -1,34 +1,65 @@
 # 👋 Hi there! I'm Naeem Sutton
-### Aspiring Software Engineer | Game Developer | Tech Enthusiast
+### Aspiring Cybersecurity Specialist | Software Engineer | Tech Enthusiast
 
-I'm Naeem Sutton, a passionate 22-year-old Computer Science major, dedicated to creating and innovating through software development. Currently, I'm interning with the End User Computing team at UMass Memorial, where I'm gaining hands-on experience in the world of technology.
+I'm Naeem Sutton, a 22-year-old Computer Science major deeply passionate about building secure, efficient systems and protecting digital infrastructure. My experience as an intern at UMass Memorial has given me hands-on exposure to key cybersecurity practices, including risk analysis, penetration testing, and incident response.
 
-When I'm not immersed in code, you'll find me:
+When I'm not safeguarding systems, you'll find me:
 
-🏀 Cheering for my beloved Celtics during the NBA season
-🎮 Exploring virtual worlds as a video game enthusiast
-🍳 Enjoying quality time in the kitchen
-🙋‍♂️ Enjoying the company of friends
+- 🏀 Cheering for my beloved Celtics during the NBA season  
+- 🎮 Exploring virtual worlds as a video game enthusiast  
+- 🍳 Enjoying quality time in the kitchen  
+- 🙋‍♂️ Spending time with friends and loved ones  
 
-I'm always eager to connect with like-minded individuals, so feel free to reach out. Let's chat about tech, sports, gaming, cats, or anything under the sun!
+I'm always eager to connect with fellow cybersecurity enthusiasts and professionals. Let’s discuss cybersecurity, gaming, tech, or even cats!
 
-**Skills:** C++ / Vue.js / React / JavaScript / Python
+---
 
-🚀 **Projects:**
-- 🔭 I'm currently working on an exciting [RPG Game](https://github.com/NaeemSutton/GameRPG).
-- 🌱 I'm continuously learning C++, Python, and Django.
+## 🛠️ Skills  
+- Cybersecurity Frameworks (NIST 800-53, HITRUST CSF)  
+- Penetration Testing  
+- C++ / Python / Networking  
+- Risk Analysis  
+- Microsoft Defender / Nessus  
 
-🤝 **Looking to Collaborate:**
-- 👯 I'm open to collaboration on meaningful projects.
-- 💬 Ask me about anything.
-  
-## Connect with Me
-[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40' style='filter: invert(1);'>](https://github.com/NaeemSutton) [<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(1);'>](https://www.linkedin.com/in/naeemsutton/) [<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='40' style='filter: invert(1);'>](https://www.instagram.com/nae_sut/)
+---
 
-## 📊 GitHub Stats
-![Naeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaeemSutton&show_icons=true&theme=radical)
+## 🚀 Projects  
+- 🔍 **Malware Analysis**  
+  - Used tools like IDA Pro, OllyDbg, and Process Monitor to identify obfuscation techniques, registry changes, and data exfiltration patterns.  
 
-## 🎮 Favorite Technologies
+- 🛡️ **Phishing Awareness Campaign**  
+  - Built a phishing simulation platform using Flask, SQLAlchemy, and SendGrid to enhance organizational cybersecurity awareness.  
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="100" height="100" /></div>
+---
 
+## 🤝 Looking to Collaborate  
+- 🛡️ On security-focused projects or cybersecurity awareness initiatives.  
+- 💬 Always happy to chat about anything cybersecurity or technology-related.
+
+---
+
+## 📫 Connect with Me  
+[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40' style='filter: invert(1);'>](https://github.com/NaeemSutton)  
+[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(1);'>](https://www.linkedin.com/in/naeemsutton/)  
+[<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='40' style='filter: invert(1);'>](https://www.instagram.com/nae_sut/)  
+
+---
+
+## 📊 GitHub Stats  
+![Naeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaeemSutton&show_icons=true&theme=radical)  
+
+---
+
+## 🎮 Favorite Technologies  
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/networking-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="100" height="100" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/wireshark-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/kali-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/firewall-icon.svg" alt="icon" width="100" height="100" />
+</div>
